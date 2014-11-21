@@ -1,3 +1,5 @@
+# Example 2.4: Including friction
+
 from math import sqrt
 
 class PVector:

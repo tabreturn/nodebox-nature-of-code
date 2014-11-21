@@ -1,3 +1,5 @@
+# Example 3.1: Angular motion using rotate()
+
 from math import radians
 
 speed(60)

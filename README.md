@@ -9,4 +9,6 @@ http://natureofcode.com/
 Shoebot, a port/rewrite of Nodebox 1, can be found here:
 http://shoebot.github.io/shoebot/
 
+These examples have not been tested in Nodebox 1, but should work fine.
+
 

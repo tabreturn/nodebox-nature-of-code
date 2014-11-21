@@ -1,3 +1,5 @@
+# Example 1.3: Vector subtraction
+
 class PVector:
     def __init__(self, x_, y_):
         self.x = x_

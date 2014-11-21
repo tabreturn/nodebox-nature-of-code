@@ -1,3 +1,5 @@
+# Example I.2: Random number distribution
+
 speed(60)
 size(640, 240)
 background(1)

@@ -1,3 +1,5 @@
+# Example 6.2: Arrive steering behavior
+
 from PVector import *
 from Particle import *
 from math import pi

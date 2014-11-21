@@ -1,3 +1,5 @@
+# Example 4.3: Simple Single Particle System
+
 from PVector import *
 
 class Particle:

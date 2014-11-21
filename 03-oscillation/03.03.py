@@ -1,3 +1,5 @@
+# Example 3.3: Pointing in the direction of motion
+
 from math import sqrt
 from math import atan2
 

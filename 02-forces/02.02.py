@@ -1,3 +1,5 @@
+# Example 2.2: Forces acting on many objects
+
 from math import sqrt
 
 class PVector:

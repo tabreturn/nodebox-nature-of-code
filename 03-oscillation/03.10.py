@@ -1,3 +1,5 @@
+# Example 3.10: Swinging pendulum
+
 from math import pi
 from math import sin
 from math import cos

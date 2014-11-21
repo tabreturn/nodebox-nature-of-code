@@ -1,3 +1,5 @@
+# Example 1.5: Vector magnitude
+
 from math import *
 
 class PVector:

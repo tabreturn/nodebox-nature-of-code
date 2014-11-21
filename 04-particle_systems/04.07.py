@@ -1,3 +1,5 @@
+# Example 4.7: ParticleSystem with repeller
+
 from PVector import *
 
 class Particle:

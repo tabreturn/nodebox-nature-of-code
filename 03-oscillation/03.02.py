@@ -1,3 +1,5 @@
+# Example 3.2: Forces with (arbitrary) angular motion
+
 from math import sqrt
 
 def constrain(amt, low, high):

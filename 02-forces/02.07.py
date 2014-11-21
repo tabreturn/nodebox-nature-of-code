@@ -1,3 +1,5 @@
+# Example 2.7: Attraction with many Movers
+
 from math import sqrt
 
 class PVector:

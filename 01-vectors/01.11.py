@@ -1,3 +1,5 @@
+# Example 1.11: Array of movers accelerating towards the mouse
+
 from math import sqrt
 
 class PVector:

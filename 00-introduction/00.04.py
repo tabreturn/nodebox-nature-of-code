@@ -1,10 +1,10 @@
+# Example I.4: Gaussian distribution
+
 import random
 
 speed(60)
 size(640, 360)
 
-#def setup():
-    ###
 
 def draw():
     sd = 60.0

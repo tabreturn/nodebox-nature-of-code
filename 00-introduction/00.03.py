@@ -1,3 +1,5 @@
+# Example I.3: Walker that tends to move to the right
+
 class Walker:
     def __init__(self):
         self.x = WIDTH/2

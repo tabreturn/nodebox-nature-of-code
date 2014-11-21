@@ -1,3 +1,5 @@
+# Example 4.5: Particle system inheritance and polymorphism
+
 from PVector import *
 from math import pi
 

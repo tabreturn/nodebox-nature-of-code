@@ -1,3 +1,5 @@
+# Example 3.7: Oscillator objects
+
 from math import sin
 
 class PVector:

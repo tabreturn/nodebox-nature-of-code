@@ -1,3 +1,5 @@
+# Example 1.10: Accelerating towards the mouse
+
 from math import sqrt
 
 class PVector:

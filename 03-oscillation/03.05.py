@@ -1,3 +1,5 @@
+# Example 3.5: Simple Harmonic Motion
+
 from math import cos
 from math import pi
 

@@ -1,3 +1,5 @@
+# Example 1.10: Accelerating towards the mouse
+
 class Walker:
     def __init__(self):
         self.x = WIDTH/2

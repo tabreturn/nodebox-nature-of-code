@@ -1,3 +1,5 @@
+# Example 2.1: Forces
+
 from math import sqrt
 
 class PVector:

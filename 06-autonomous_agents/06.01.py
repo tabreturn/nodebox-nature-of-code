@@ -1,3 +1,5 @@
+# Example 6.1: Seeking a target
+
 from PVector import *
 from Particle import *
 from math import pi

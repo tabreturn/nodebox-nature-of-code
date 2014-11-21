@@ -1,3 +1,5 @@
+# Example 1.4: Multiplying a vector
+
 class PVector:
     def __init__(self, x_, y_):
         self.x = x_

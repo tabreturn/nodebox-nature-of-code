@@ -1,3 +1,5 @@
+# Example 3.6: Simple Harmonic Motion II
+
 from math import cos
 
 speed(60)

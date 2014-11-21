@@ -1,3 +1,5 @@
+# Example 4.2: ArrayList of particles with Iterator
+
 from PVector import *
 
 class Particle:

@@ -1,3 +1,5 @@
+# Example 6.4: Flow field following
+
 from PVector import *
 from Particle import *
 from math import *

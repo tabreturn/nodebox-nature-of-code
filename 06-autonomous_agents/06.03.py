@@ -1,3 +1,5 @@
+# Example 6.3: "Stay within walls" steering behavior
+
 from PVector import *
 from Particle import *
 from math import pi

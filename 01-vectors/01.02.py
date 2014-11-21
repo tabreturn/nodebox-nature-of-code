@@ -1,3 +1,5 @@
+# Example 1.2: Bouncing ball with PVectors!
+
 class PVector:
     def __init__(self, x_, y_):
         self.x = x_

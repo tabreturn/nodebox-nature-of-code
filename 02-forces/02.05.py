@@ -1,3 +1,5 @@
+# Example 2.5: Fluid Resistance
+
 from math import sqrt
 
 class PVector:

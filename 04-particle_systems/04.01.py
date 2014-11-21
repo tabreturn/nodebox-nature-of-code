@@ -1,3 +1,5 @@
+# Example 4.1: A single particle
+
 from PVector import *
 
 class Particle:

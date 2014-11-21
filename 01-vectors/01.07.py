@@ -1,3 +1,5 @@
+# Example 1.7: Motion 101 (velocity)
+
 from math import sqrt
 
 class PVector:

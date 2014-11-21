@@ -1,3 +1,5 @@
+# Example 2.6: Attraction
+
 from math import sqrt
 
 class PVector:

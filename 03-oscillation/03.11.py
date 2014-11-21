@@ -1,3 +1,5 @@
+# Example 3.11: A Spring connection
+
 from math import sqrt
 
 class PVector:

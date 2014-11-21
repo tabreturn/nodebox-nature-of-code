@@ -1,3 +1,5 @@
+# Example 1.6: Normalizing a vector
+
 from math import sqrt
 
 class PVector:

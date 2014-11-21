@@ -1,3 +1,5 @@
+# Example 4.4: System of systems
+
 from PVector import *
 
 class Particle:

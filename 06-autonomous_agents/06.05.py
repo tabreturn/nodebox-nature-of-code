@@ -1,3 +1,5 @@
+# Example 6.5: Simple path following
+
 from PVector import *
 from Particle import *
 from math import *
@@ -55,15 +57,6 @@ class Vehicle:
         steer = PVector.subStatic(desired, self.velocity)
         steer.limit(self.maxforce)
         self.applyForce(steer)
-    
-    '''
-    def follow(self, flow):
-        desired = flow.lookup(self.location)
-        desired.mult(self.maxspeed)
-        steer = PVector.subStatic(desired, self.velocity)
-        steer.limit(self.maxforce)
-        self.applyForce(steer)
-    '''
     
     def follow(self, p):
         predict = self.velocity.get()

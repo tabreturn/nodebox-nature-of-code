@@ -1,3 +1,5 @@
+# Example I.5: Perlin noise walker
+
 from Simplex import *
 
 def map(value, in_from, in_to, out_from, out_to):

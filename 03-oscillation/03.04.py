@@ -1,3 +1,5 @@
+# Example 3.4: Polar to Cartesian
+
 from math import cos
 from math import sin
 

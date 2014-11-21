@@ -1,3 +1,5 @@
+# Example 2.8: Mutual attraction
+
 from math import sqrt
 
 def constrain(amt, low, high):

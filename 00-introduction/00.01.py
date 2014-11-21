@@ -1,3 +1,5 @@
+# Example I.1: Traditional random walk
+
 class Walker:
     def __init__(self):
         self.x = WIDTH/2

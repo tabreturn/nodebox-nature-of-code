@@ -1,3 +1,5 @@
+# Example 4.6: Particle system with forces
+
 from PVector import *
 
 class Particle:

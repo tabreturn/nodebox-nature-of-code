@@ -1,3 +1,5 @@
+# Example 3.9: The Wave
+
 from math import sin
 
 def map(value, in_from, in_to, out_from, out_to):

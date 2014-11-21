@@ -1,3 +1,5 @@
+# Example 2.3: Gravity scaled by mass
+
 from math import sqrt
 
 class PVector:
