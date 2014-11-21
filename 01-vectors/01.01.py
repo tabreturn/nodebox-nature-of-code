@@ -1,4 +1,4 @@
-# Example 1.10: Accelerating towards the mouse
+# Example 1.1: Bouncing ball with no vectors
 
 speed(60)
 size(640, 360)
