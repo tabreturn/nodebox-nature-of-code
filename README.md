@@ -6,9 +6,7 @@ in Daniel Shiffman's excellent book "The Nature of Code",
 available here:
 http://natureofcode.com/
 
-Shoebot, a port/rewrite of Nodebox 1, can be found here:
-http://shoebot.github.io/shoebot/
+Shoebot, or Nodebox 1, is required and can be found here:
 
-These examples have not been tested in Nodebox 1, but should work fine.
-
-
+* http://shoebot.github.io/shoebot/
+* http://www.nodebox.net/code/
