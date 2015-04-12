@@ -1,4 +1,4 @@
-The Nature of Nodebox
+the-nature-of-nodebox
 =====================
 
 Python implementations of the Processing examples 
