@@ -6,7 +6,4 @@ in Daniel Shiffman's excellent book "The Nature of Code",
 available here:
 http://natureofcode.com/
 
-Shoebot or Nodebox 1 are required and can be found here:
-
-* http://shoebot.github.io/shoebot/
-* http://www.nodebox.net/code/
+This is code for Shoebot or Nodebox 1, but Processing.py should work too (if with a few tweaks).
