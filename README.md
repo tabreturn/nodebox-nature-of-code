@@ -1,5 +1,5 @@
-the-nature-of-nodebox
-=====================
+processing.py-nature-of-code
+============================
 
 Python implementations of the Processing examples 
 in Daniel Shiffman's excellent book "The Nature of Code",
