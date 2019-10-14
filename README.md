@@ -1,7 +1,7 @@
 Nodebox Port - Nature of Code
 =============================
 
-Python implementations of the Processing examples in Daniel Shiffman's excellent book "The Nature of Code"
+*Python implementations of the Processing examples in Daniel Shiffman's excellent book "The Nature of Code"*
 
 http://natureofcode.com/
 
